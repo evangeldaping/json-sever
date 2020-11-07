@@ -11,7 +11,4 @@
 
   json-server --watch db.json -p 3001 -d 2000
   
-  •	This should start up a server at port number 3001 on your machine. 
-  The data from this server can be accessed by typing the following addresses into your browser address bar:
-
-  npm install json-server -g
+• This should start up a server at port number 3001 on your machine. 
