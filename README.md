@@ -14,7 +14,7 @@ The Node module, json-server, provides a very simple way to set up a web server 
 # This will install json-server that can be started from the command line from any folder on your computer.
 
 # Configuring the Server
-•	git clone
+•	git clone https://github.com/evangeldaping/json-sever.git
 •	Move to this folder in your terminal window, and type the following at the command prompt to start the server:
 
   json-server --watch db.json -p 3001 -d 2000
